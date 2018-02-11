@@ -11,6 +11,5 @@ def say_hello()
   end
   
  say_hello(name)
- say_hello()
  
  
